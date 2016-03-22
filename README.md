@@ -3,7 +3,7 @@ Task:
 The assignment was divided into 3 parts namely; making programs for K-NN algorithm, decision tree algorithm and 
 implementing perceptron. We were given a set of data that we needed to classify based on the training data and testing data.
 
-Coded in Java
+Coded in Java \n
 Technology used: Mainly Eclipse
 
 Part 1: K-NN Algorithm
